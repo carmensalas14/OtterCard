@@ -64,9 +64,9 @@ body {
 
 .flower {
     overflow: hidden;
-    background-size: cover;
+    background-size: 240px;
     background-position: center;
-    background-image: url('https://i.pinimg.com/736x/4d/fe/ac/4dfeacabb7a0a28bdcf9ee7e9767827c--merry-christmas-to-everyone-christmas-time.jpg');
+    background-image: url('http://bestanimations.com/Holidays/Christmas/merrychristmas/merry-christmas-minions-greeting-gif-4.gif');
 }
 
 .control-panel {
