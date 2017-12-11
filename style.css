@@ -14,7 +14,7 @@ body {
     align-items: center;
     justify-content: space-around;
     flex-direction: column;
-    background-image: url('img/pink-background.jpg');
+    background-image: url('http://papers.co/wallpaper/papers.co-vi63-bokeh-snow-flare-water-splash-pattern-2-wallpaper.jpg');
     overflow: hidden;
     background-size: cover;
     background-position: center;
@@ -66,7 +66,7 @@ body {
     overflow: hidden;
     background-size: cover;
     background-position: center;
-    background-image: url('img/flowers.png');
+    background-image: url('https://i.pinimg.com/736x/4d/fe/ac/4dfeacabb7a0a28bdcf9ee7e9767827c--merry-christmas-to-everyone-christmas-time.jpg');
 }
 
 .control-panel {
